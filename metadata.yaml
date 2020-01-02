@@ -1,11 +1,16 @@
 _repo: Negroes-and-Negro-Slavery-the-first-an-inferior-race-the-latter-its-normal-condition_61063
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61063-h/images/cover.jpg
 creator:
   author:
     agent_name: Evrie, J. H. Van
     gutenberg_agent_id: '51237'
     url: http://www.gutenberg.org/2009/agents/51237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61063#Negroes-and-Negro-Slavery-the-first-an-inferior-race-the-latter-its-normal-condition
 gutenberg_issued: '2019-12-31'
 gutenberg_type: Text
 identifiers:
